@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://anastulimat.com/](https://anastulimat.com/)
 
-- 💬 Ask me about **PHP**
+- 💬 Ask me about **PHP / JS / Python**
 
 - 📫 How to reach me **anas.tulimat@outlook.fr**
 
