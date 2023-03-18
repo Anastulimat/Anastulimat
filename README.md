@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on PHP/Symfony based projects<br><br>🌱 I’m currently learning ReactJS & Machine Learning<br><br>👨‍💻 All of my projects are available at https://anastulimat.com/<br><br>💬 Ask me about PHP / JS / Python<br><br>📫 How to reach me : anast7.dev@gmail.com<br><br>⚡ Fun fact I try to drink less coffee
+🔭 I’m currently working on PHP/Symfony based projects<br><br>🌱 I’m currently learning ReactJS & Machine Learning<br><br>👨‍💻 All of my projects are available at https://anastulimat.com/<br><br>💬 Ask me about PHP / JS / Python<br><br>📫 How to reach me : anast7.dev@gmail.com<br><br>⚡ Fun fact I try to drink less coffee :sweat_smile:
 
 
 ## 🌐 Socials:
